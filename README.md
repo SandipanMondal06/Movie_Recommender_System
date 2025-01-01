@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project implements a **Content-Based Recommender System** using the **Bag of Words (BoW)** model. The system is designed to recommend items (e.g., movies, books, or products) based on their content features, such as descriptions, tags, or other textual data.
-
+![Homepage](Screenshot (23).png)
 ---
 
 ## Features of the Project
